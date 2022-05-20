@@ -1,8 +1,7 @@
-# visualització_exploratòria
+# Visualització_gràfica_de_Múltiples_variables
 
-## Visualització exploratòria  practise ##
+## Visualització_gràfica_de_Múltiples_variables  practise ##
 
 In this repository you find the next files:
 * Exercise 1
 * Exercise 2
-* Exercise 3
